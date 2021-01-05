@@ -1,0 +1,19 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\metotlar_1\metotlar_1\bin\Debug\metotlar_1.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\metotlar_1\metotlar_1\bin\Debug\metotlar_1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\metotlar_1\metotlar_1\bin\Debug\metotlar_1.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\metotlar_1\metotlar_1\obj\Debug\metotlar_1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\metotlar_1\metotlar_1\obj\Debug\metotlar_1.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\metotlar_1\metotlar_1\obj\Debug\metotlar_1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\metotlar_1\metotlar_1\obj\Debug\metotlar_1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\metotlar_1\metotlar_1\obj\Debug\metotlar_1.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\metotlar_1\metotlar_1\obj\Debug\metotlar_1.pdb
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\bin\Debug\metotlar_1.exe.config
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\bin\Debug\metotlar_1.exe
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\bin\Debug\metotlar_1.pdb
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\obj\Debug\metotlar_1.csprojAssemblyReference.cache
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\obj\Debug\metotlar_1.Form1.resources
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\obj\Debug\metotlar_1.Properties.Resources.resources
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\obj\Debug\metotlar_1.csproj.GenerateResource.cache
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\obj\Debug\metotlar_1.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\obj\Debug\metotlar_1.exe
+E:\Eski Calismalar\diktörtgen alan cevre hesaplama(metotlar)\metotlar_1\obj\Debug\metotlar_1.pdb
